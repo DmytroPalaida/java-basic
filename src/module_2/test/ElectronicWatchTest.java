@@ -1,7 +1,7 @@
-package module_2.electronic_watch.test;
+package module_2.test;
 
 
-import module_2.electronic_watch.main.ElectronicWatch;
+import module_2.main.ElectronicWatch;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;

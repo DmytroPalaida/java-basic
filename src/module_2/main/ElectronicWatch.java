@@ -1,4 +1,4 @@
-package module_2.electronic_watch.main;
+package module_2.main;
 
 import java.time.Duration;
 import java.time.Instant;
