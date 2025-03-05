@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="spoon-core-11.2.1-beta-6-jar-with-dependencies">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/spoon-core-11.2.1-beta-6-jar-with-dependencies.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spoon-core-11.2.1-beta-6-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
